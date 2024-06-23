@@ -8,7 +8,7 @@
     "@oclif/plugin-help": "^6.0.20",
     "@sequelize/utils": "workspace:*",
     "@types/inquirer": "^9.0.7",
-    "chalk": "^5.3.0",
+    "ansis": "^3.2.0",
     "cosmiconfig": "^9.0.0",
     "inquirer": "^9.2.14",
     "zod": "^3.22.4"
@@ -17,11 +17,11 @@
   "devDependencies": {
     "@oclif/test": "3.2.15",
     "@types/chai": "4.3.16",
-    "@types/mocha": "10.0.6",
+    "@types/mocha": "10.0.7",
     "chai": "4.4.1",
     "concurrently": "8.2.2",
     "mocha": "10.4.0",
-    "oclif": "4.13.0",
+    "oclif": "4.13.8",
     "rimraf": "5.0.7"
   },
   "engines": {
